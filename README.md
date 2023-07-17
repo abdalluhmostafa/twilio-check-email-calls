@@ -27,6 +27,9 @@ pip3 install twilio
 ### Start script 
 
 ```
+
+touch /root/counter.txt
+
 python3 twillio-calls.py
 
 ```
